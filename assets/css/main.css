@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg-image{
+    background-image: url('https://demo.templateflip.com/awesome-app/images/home-image.jpg');
+    width: 100%;
+    height: 100vh;
+}
+.ull{
+    list-style: none;
+}
+.main{
+    padding-top: 80px !important;
+}
+.icn{
+    color: red;
+    font-size: 35px;
+}
+.icon{
+    color: rgb(65, 62, 62);
+}
+.main-2{
+    padding: 50px;
+    background-color: #f5fafd;
+}
+.text{
+    text-align: center;
+}
+.main-3{
+    padding: 50px;
+}
+.textt{
+    padding-right: 90px !important;
+}
+.main-4{
+    background-image: url('https://demo.templateflip.com/awesome-app/images/home-image.jpg');
+    width: 100%;
+    height: 55vh;
+}
+.txt{
+    text-align: center;
+    padding-top: 100px;
+    color: white;
+}
+.icons{
+    font-size: 70px;
+    padding-left: 40px;
+}
+.foot{
+    background-color: rgba(0, 0, 0, 0.849);
+    width: 100%;
+    height: 40vh;
+}
+.icns{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 40px;
+}
